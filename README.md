@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Narendhran</h1>
 
-<!--
-**narendhranm/narendhranm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science Student | Aspiring Full Stack Developer | UI/UX Designer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science Student at Amet University Chennai
+- 💻 Passionate about Full Stack Web Development
+- 🎨 UI/UX Designer using Figma
+- 🌱 Learning Java, Python & Backend Development
+- 🤖 I use AI tools to improve productivity and accelerate development
+
+---
+
+## 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Figma
+- UI/UX Design
+- Basic Java
+- Basic Python
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🌐 Personal Portfolio Website
+- 📧 Contact Form with Email Integration
+- 🎨 UI/UX Design Projects
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/narendhran
+- 💻 GitHub: https://github.com/narendhranm
+
+---
+
+⭐ Thanks for visiting my profile!
