@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narendhran</h1>
 
-<h3 align="center">Computer Science Student | Aspiring Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Computer Science Student | Aspiring Full Stack Developer | Web Designer</h3>
 
 ---
 
